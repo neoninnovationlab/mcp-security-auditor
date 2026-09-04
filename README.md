@@ -1,6 +1,6 @@
 # MCP Security & Vulnerability Auditor
 
-[![Glama Server](https://glama.ai/mcp/servers/Ansarii/mcp-security-auditor/badges/score.svg)](https://glama.ai/mcp/servers/Ansarii/mcp-security-auditor)
+[![Glama Server](https://glama.ai/mcp/servers/neoninnovationlab/mcp-security-auditor/badges/score.svg)](https://glama.ai/mcp/servers/neoninnovationlab/mcp-security-auditor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A zero-execution static AST security scanner and vulnerability auditor for **Model Context Protocol (MCP)** servers.
