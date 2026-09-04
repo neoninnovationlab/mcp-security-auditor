@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/registry/main/schema/server.json",
+  "name": "io.github.ansarii/mcp-security-auditor",
+  "title": "MCP Security & Vulnerability Auditor",
+  "description": "Zero-execution static AST security scanner and vulnerability auditor for Model Context Protocol servers.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "stdio",
+      "command": "python3",
+      "args": ["server.py"]
+    }
+  ]
+}
