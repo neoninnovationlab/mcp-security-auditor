@@ -75,4 +75,4 @@ We audited 23 prominent reference and community MCP servers:
 ---
 
 ## 📄 License
-MIT License. Maintained by [Neon Innovation Lab](https://github.com/Ansarii).
+MIT License. Maintained by [Neon Innovation Lab](https://github.com/neoninnovationlab).
